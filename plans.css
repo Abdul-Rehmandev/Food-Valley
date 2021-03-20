@@ -3,6 +3,7 @@
     height: 100vh;
 }
 
+
 .plan-box {
     background-color: #fff;
     border-radius: 5px;
@@ -20,11 +21,6 @@
     background-color: #fcfcfc;
     border-top-left-radius: 5px;
     border-top-right-radius: 5px;
-}
-
-.plan-box div:last-child {
-    text-align: center;
-    border: 0;
 }
 
 
